@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181799849337",
+    "project_id": "clinic-113de",
+    "storage_bucket": "clinic-113de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181799849337:android:c1fe4dea851bd3728733a8",
+        "android_client_info": {
+          "package_name": "com.cut.clinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181799849337-12bdh5too6tlsmsb2q8tk1tca8khqukl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cut.clinic",
+            "certificate_hash": "c0c3d309661ea35d392902216c5b2c15530c6a52"
+          }
+        },
+        {
+          "client_id": "181799849337-s1b7opa8qhmeekfutl8ibgl9fmrh9klg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA645B8IjGyKtd2BvCyD2J8iYlFV-5qlZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181799849337-s1b7opa8qhmeekfutl8ibgl9fmrh9klg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
